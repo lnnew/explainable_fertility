@@ -1,7 +1,7 @@
 
 # Explainable Fertility Analysis
 
-This repository provides an explainable machine learning approach to analyze factors affecting fertility rates across various regions. Using SHAP (SHapley Additive exPlanations) values, we identify the most critical features and their contributions to model predictions.
+This repository provides an explainable machine learning approach to analyze factors affecting fertility rates across various regions in Korea. Using SHAP (SHapley Additive exPlanations) values, we identify the most critical features and their contributions to model predictions.
 
 ## Overview
 
